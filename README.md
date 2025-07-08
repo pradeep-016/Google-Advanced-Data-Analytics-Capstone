@@ -2,10 +2,6 @@
 Google Advanced Data Analytics Capstone Project
 This capstone project is an opportunity to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
 
-Access the app [here](https://app-advanced-data-analytics.streamlit.app/)
-
-https://app-advanced-data-analytics.streamlit.app/
-
 
 ## TikTok Data Predictive Analysis using GridSearchCV and Random Forest
 The main aim is to build a machine learning model that can be used to determine whether a video contains a claim or whether it offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently using machine learning techniques to predict on a binary outcome variable.
@@ -45,7 +41,6 @@ This is a classification task because the model is predicting a binary class.
 
 ![image](https://raw.githubusercontent.com/adacert/tiktok/main/optimal_model_flow_numbered.svg)
 
-The full explanation of code is available [here](https://www.kaggle.com/code/aleemaparakatta/tiktok-data-predictive-analysis-gridsearchcv/).
 
 This model performs exceptionally well, with an average recall score of 0.995 across the five cross-validation folds. After checking the precision score to be sure the model is not classifying all samples as claims, it is clear that this model is making almost perfect classifications.
 A machine learning model would greatly assist in the effort to present human moderators with videos that are most likely to be in violation of TikTok's terms of service.
